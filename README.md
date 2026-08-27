@@ -48,7 +48,7 @@ Response `201`:
 ## WebSocket widget (Browser Source di OBS)
 
 ```
-ws://localhost:3000/widgets/alert?streamKey=d63b2619a3d911e473393cff4bd24a80
+http://localhost:3000/widgets/alert?streamKey=d63b2619a3d911e473393cff4bd24a80
 ```
 
 Tambahkan sebagai Browser Source di OBS (bungkus dengan halaman HTML yang connect ke URL ini, render animasi alert saat menerima pesan).
